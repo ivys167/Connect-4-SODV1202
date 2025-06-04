@@ -1,0 +1,12 @@
+Backend:
+make an abstract player class
+make a derivative human player class and a ai player class, the human player class will have methods that use user inputs
+make a method to place the chip based on user input for human class, and an algorithm for the ai player
+use an 2d array property of booleans to keep track of chip positions on the board
+Make a method to check if the player won by checking for horizontal, vertical, and diagnol win conditions
+
+
+Frontend:
+Set up the game board with 7 columns and 6 rows, the user wil be asked to place a chip in one of the seven columns and the chip will be placed at the lowest possible row
+Use writeline function to represent the board, use a dash for empty spaces and a asterisk for filled position
+
