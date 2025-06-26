@@ -1,0 +1,14 @@
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/bin/Debug/net8.0/connect_4
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/bin/Debug/net8.0/connect_4.deps.json
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/bin/Debug/net8.0/connect_4.runtimeconfig.json
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/bin/Debug/net8.0/connect_4.dll
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/bin/Debug/net8.0/connect_4.pdb
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.AssemblyInfoInputs.cache
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.AssemblyInfo.cs
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.csproj.CoreCompileInputs.cache
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.dll
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/refint/connect_4.dll
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.pdb
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/connect_4.genruntimeconfig.cache
+/home/ivyst/Desktop/Coding/SODV1202/connect_4/obj/Debug/net8.0/ref/connect_4.dll
